@@ -1,0 +1,10 @@
+
+path: ../data
+train: 
+  images: images/train
+  labels: labels/train
+val: 
+  images: images/val
+  labels: labels/val
+names: 
+  0: test
